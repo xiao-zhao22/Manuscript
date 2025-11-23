@@ -1,2 +1,2 @@
 # Manuscript
-data and code
+The data and code are in the master branch.
